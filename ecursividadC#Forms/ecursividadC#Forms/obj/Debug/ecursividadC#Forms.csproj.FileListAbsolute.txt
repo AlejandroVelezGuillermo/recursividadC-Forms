@@ -1,0 +1,11 @@
+C:\Users\soned\Videos\programas VS\ecursividadC#Forms\ecursividadC#Forms\bin\Debug\ecursividadC#Forms.exe.config
+C:\Users\soned\Videos\programas VS\ecursividadC#Forms\ecursividadC#Forms\bin\Debug\ecursividadC#Forms.exe
+C:\Users\soned\Videos\programas VS\ecursividadC#Forms\ecursividadC#Forms\bin\Debug\ecursividadC#Forms.pdb
+C:\Users\soned\Videos\programas VS\ecursividadC#Forms\ecursividadC#Forms\obj\Debug\ecursividadC#Forms.csproj.AssemblyReference.cache
+C:\Users\soned\Videos\programas VS\ecursividadC#Forms\ecursividadC#Forms\obj\Debug\ecursividadC#Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\soned\Videos\programas VS\ecursividadC#Forms\ecursividadC#Forms\obj\Debug\ecursividadC_Forms.Form1.resources
+C:\Users\soned\Videos\programas VS\ecursividadC#Forms\ecursividadC#Forms\obj\Debug\ecursividadC_Forms.Properties.Resources.resources
+C:\Users\soned\Videos\programas VS\ecursividadC#Forms\ecursividadC#Forms\obj\Debug\ecursividadC#Forms.csproj.GenerateResource.cache
+C:\Users\soned\Videos\programas VS\ecursividadC#Forms\ecursividadC#Forms\obj\Debug\ecursividadC#Forms.csproj.CoreCompileInputs.cache
+C:\Users\soned\Videos\programas VS\ecursividadC#Forms\ecursividadC#Forms\obj\Debug\ecursividadC#Forms.exe
+C:\Users\soned\Videos\programas VS\ecursividadC#Forms\ecursividadC#Forms\obj\Debug\ecursividadC#Forms.pdb
